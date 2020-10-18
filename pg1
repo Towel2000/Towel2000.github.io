@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<style>
+body {
+bcakground-color:blue;
+}
+ .white-text{
+  color:white;
+  }
+</style>
+<html>
+  <body>
+    <h1 align="center" class="white-text">YEET This is the meme zone</h1>
+    <title>YEET This is the meme zone</title>
+    <center>
+    <img src="https://img-9gag-fun.9cache.com/photo/a7WVB9b_460s.jpg">
+    <p class="white-text">This is a classic template that can be used around</p>
+    </center>
+   <body>
+</html>
